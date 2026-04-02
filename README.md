@@ -3,7 +3,7 @@
 AI-based system using NLP and machine learning to analyze linguistic patterns and predict early mental health risk signals.
 
 ## 📄 Research Paper
-[View Paper](./Research_AI_Aayushi.pdf)
+[View Paper](./AI_MENTAL_HEALTH_RISK_DETECTION.pdf)
 
 ## Problem Statement
 Early detection of mental health risks is challenging due to lack of continuous monitoring and social stigma.
